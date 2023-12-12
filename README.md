@@ -1,7 +1,7 @@
 ## Oi! Eu sou o João Victor
 
 <p align="center">
- gosto de resolver problemas usando a tecnologia 🧑🏻‍💻. <br><br>Olá! Sou desenvolvedor Front-end. Excelente em projetar e manter sites responsivos que oferecem uma experiência de usuário tranquila, atualmente sigo meus estudos, tendo em mente que estamos em constante aprendizado.</p>&nbsp;
+ gosto de resolver problemas usando tecnologia 🧑🏻‍💻. <br><br>Olá! Sou desenvolvedor Front-end. Excelente em projetar e manter sites responsivos que oferecem uma experiência de usuário tranquila, atualmente sigo meus estudos, tendo em mente que estamos em constante aprendizado.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaodev2005&theme=radical&mode=weekly" />
