@@ -10,7 +10,13 @@
  &nbsp;
  &nbsp;
 
+Web Developer
+-------------
 
+*   🌍  I'm based in São José do Rio Preto / SP - Brazil
+*   🖥️  See my portfolio at [brseghese.github.io](http://brseghese.github.io)
+*   ✉️  You can contact me at [brseghese@gmail.com](mailto:brseghese@gmail.com)
+*   🧠  I'm learning Stack MERN
 
 ## My Skills
 
