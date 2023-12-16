@@ -13,10 +13,9 @@
 Web Developer
 -------------
 
-*   🌍  I'm based in São José do Rio Preto / SP - Brazil
-*   🖥️  See my portfolio at [brseghese.github.io](http://brseghese.github.io)
-*   ✉️  You can contact me at [brseghese@gmail.com](mailto:brseghese@gmail.com)
-*   🧠  I'm learning Stack MERN
+*   🌍  Moro em São Paulo / SP - Brasil
+*   🖥️  Veja meu portfólio [joaodev2005.github.io](http://127.0.0.1:5500/index.html#home)
+*   ✉️  Entre em contato [joaovictor.dev2005@gmail.com](joaovictor.dev2005@gmail.com)
 
 ## My Skills
 
