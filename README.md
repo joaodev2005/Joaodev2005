@@ -41,7 +41,7 @@ Web Developer
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 &nbsp;
 &nbsp;
