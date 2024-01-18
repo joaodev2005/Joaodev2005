@@ -14,7 +14,7 @@ Web Developer
 -------------
 
 *   🌍  Moro em São Paulo / SP - Brasil
-*   🖥️  Veja meu portfólio [joaodev2005.github.io](http://127.0.0.1:5500/index.html#home)
+*   🖥️  Veja meu portfólio [joaodev2005.github.io]([http://127.0.0.1:5500/index.html#home](https://joaodev2005.github.io/portfolio.github.io/))
 *   ✉️  Entre em contato [joaovictor.dev2005@gmail.com](joaovictor.dev2005@gmail.com)
 
 ## My Skills
