@@ -15,7 +15,7 @@ Front End React developer
 
 *   🌍  Moro em São Paulo / SP - Brasil
 *   🖥️  Veja meu portfólio [joaodev2005.github.io](https://joaodev2005.github.io/portfolio.github.io/)
-*   ✉️  Entre em contato [joaovictor.dev2005@gmail.com](joaovictor.dev2005@gmail.com)
+*   ✉️  Entre em contato [joaovictor.dev2005@gmail.com](mailto:joaovictor.dev2005@gmail.com)
 
 ## My Skills
 
