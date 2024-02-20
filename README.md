@@ -10,7 +10,7 @@
  &nbsp;
  &nbsp;
 
-Web Developer
+Front End React developer
 -------------
 
 *   🌍  Moro em São Paulo / SP - Brasil
