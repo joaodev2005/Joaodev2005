@@ -43,6 +43,7 @@ Front End React developer
 
 <div style = 'display:inline-block'>
  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
 
