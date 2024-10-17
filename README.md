@@ -20,7 +20,7 @@ Front End React developer
 
 ## My Skills
 
-#### Main Stack:
+#### Front End:
 
 <div style="display:inline-block">
    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,14 +30,27 @@ Front End React developer
    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
+
+#### Back End:
 
 <div style = 'display:inline-block'>
     <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+#### Workstation Tools:
+
+<div style = 'display:inline-block'>
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
 
 #### Studying in this moment:
 
@@ -45,11 +58,6 @@ Front End React developer
  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
-
-
-#### Workstation Tools:
-
-<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 &nbsp;
 &nbsp;
