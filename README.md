@@ -9,7 +9,7 @@
 
 </div>
  
- Olá, sou **João Victor**, tenho 18 anos, sou um **Desenvolvedor Full Stack**.
+ Olá, sou **João Victor**, tenho 19 anos, sou um **Desenvolvedor Full Stack**.
 
 Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web, utilizando tecnologias como HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Node.js, React.js, Next.js, Prisma, MySQL. Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
 
