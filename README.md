@@ -42,7 +42,7 @@ Front End React developer
 
 #### Back End:
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -53,7 +53,7 @@ Front End React developer
 
 #### Studying in this moment:
 
-<img src="https://skillicons.dev/icons?i=mongo"/>
+<img src="https://skillicons.dev/icons?i=mongo,docker"/>
 
 &nbsp;
 &nbsp;
