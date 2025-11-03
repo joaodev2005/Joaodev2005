@@ -29,10 +29,10 @@ Estou em busca da minha **primeira oportunidade profissional na área de desenvo
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,prisma,mysql,postgresql" />
 
 ### 🛠️ Ferramentas & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,windows" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,windows" />
 
 ### 📚 Estudando no momento
-<img src="https://skillicons.dev/icons?i=docker,mongo" />
+<img src="https://skillicons.dev/icons?i=mongo" />
 
 ---
 
