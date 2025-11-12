@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 Olá! Sou **João Victor**, Desenvolvedor **Full Stack**, apaixonado por tecnologia e criação de soluções para a web.  
-Atualmente trabalho com **JavaScript, TypeScript, React, Next.js, Node.js, Prisma, MySQL e .NET**, sempre buscando aprimorar minhas habilidades técnicas e boas práticas de código.
+Atualmente trabalho com **JavaScript, TypeScript, React, Next.js, Node.js, MySQL e .NET**, sempre buscando aprimorar minhas habilidades técnicas e boas práticas de código.
 
 Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, com foco em evolução contínua e contribuição para projetos reais.
 
@@ -26,7 +26,7 @@ Estou em busca da minha **primeira oportunidade profissional na área de desenvo
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 ### ⚙️ Back End
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,prisma,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql,postgresql" />
 
 ### 🛠️ Ferramentas & Workflow
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,windows" />
