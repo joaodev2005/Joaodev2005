@@ -70,3 +70,12 @@ Estou em busca da minha **primeira oportunidade profissional na área de desenvo
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
+
+
+
+
+
+
+
+
+
