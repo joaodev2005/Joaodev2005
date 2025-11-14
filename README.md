@@ -1,81 +1,36 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=180&section=header&text=João%20Victor%20•%20Full%20Stack%20Developer&fontSize=30&fontColor=fff&animation=twinkling"/>
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto" />
+</a>
 
+<h3 align="left">💫 Sobre</h3>
+<p>
+  🌱 Estudo programação há aproximadamente 3 anos e sigo evoluindo minhas habilidades.<br>
+  🔭 Meu foco principal é C# e .NET, incluindo estudo de ASP.NET.<br>
+  💬 Tenho trabalhado em projetos pessoais para melhorar minha prática e entender melhor conceitos fundamentais da linguagem.<br>
+  🚀 Estou em busca da minha primeira oportunidade como desenvolvedor .NET júnior.<br>
+</p>
+
+<h3>🧲 Contato:</h3>
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8F0D87&width=435&lines=Olá%2C+me+chamo+João+Victor!;Sou+Desenvolvedor+Full+Stack;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
-
+  <a href="mailto:joaovictor.dev2005@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/joaovictordev2005" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre mim
-
-Olá! Sou **João Victor**, Desenvolvedor **Full Stack**, apaixonado por tecnologia e criação de soluções para a web.  
-Atualmente trabalho com **JavaScript, TypeScript, React, Next.js, Node.js, MySQL e .NET**, sempre buscando aprimorar minhas habilidades técnicas e boas práticas de código.
-
-Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, com foco em evolução contínua e contribuição para projetos reais.
-
-> 💡 Acredito que código bem escrito muda a vida das pessoas.  
-> 🚀 Meu objetivo é me tornar um desenvolvedor sólido, capaz de construir aplicações robustas e escaláveis.
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Front End
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-### ⚙️ Back End
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql,postgresql" />
-
-### 🛠️ Ferramentas & Workflow
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,windows" />
-
-### 📚 Estudando no momento
-<img src="https://skillicons.dev/icons?i=mongo" />
-
----
-
-## 📊 Estatísticas
+<h3 align="center">📚 Tecnologias que Utilizo</h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joaodev2005&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodev2005&layout=compact&theme=radical" />
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=joaodev2005&theme=radical&mode=weekly" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker" /><br>
 </div>
 
----
+<br/>
 
-## 🌍 Portfólio & Contato
-
-📌 **Portfólio:**  
-🔗 https://joaodev2005.github.io/portfolio.github.io/
-
-📨 **E-mail:**  
-📧 joaovictor.dev2005@gmail.com
-
-💼 **LinkedIn:**  
-🔗 https://www.linkedin.com/in/joaovictordev2005/
-
----
-
+<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" alt="Computador"/>
-
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=joaodev2005&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joaodev2005&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-
-
-
-
-
-
-
-
-
-
