@@ -7,7 +7,7 @@
 - 🛠️ Práticas: **Clean Code, SOLID, DDD**
 - 🎯 Focado em entregar valor através de soluções escaláveis e de alta performance
 - 🎓 Sempre estudando e evoluindo em tecnologia, arquitetura e desenvolvimento de software
-- Portfolio: <a href="https://joaovictor-portfolio-blue.vercel.app/" target="_blank">Veja meus trabalhos</a>
+- 💻 Portfolio: <a href="https://joaovictor-portfolio-blue.vercel.app/" target="_blank">Veja meus trabalhos</a>
 
 ---
 
