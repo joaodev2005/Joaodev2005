@@ -39,10 +39,9 @@ Frontend: HTML, CSS, Js, Next, React.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   </div>
 <br>
-DevOps: Github Actions, Docker, kubernetes, AzureDevOps, RabbitMQ.
+DevOps: Docker, kubernetes, AzureDevOps, RabbitMQ.
 <div style="display: inline_block">  
   <br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"alt="Kubernetes">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
