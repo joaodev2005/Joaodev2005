@@ -32,6 +32,7 @@
 ```
 
 - 💼 Desenvolvedor .NET
+- ☁️ Cloud: Azure
 - 🔭 Atualmente trabalhando em projetos com **C#, ASP.NET Core, Entity Framework, APIs REST e React**
 - 🛠️ Práticas: **Clean Code, SOLID, DDD**
 - 🎯 Focado em entregar valor através de soluções escaláveis e de alta performance
